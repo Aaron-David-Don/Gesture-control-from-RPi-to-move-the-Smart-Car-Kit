@@ -4,7 +4,7 @@ This project uses your phone as a live video source and detects hand gestures us
 
 ## 📽️ Demo Video
 
-👉 *[[Demo video link here](https://www.youtube.com/watch?v=NVE-flz3cJY)]*
+👉 *[[Demo video link here](https://youtu.be/gDPhRZBRRIo)]*
 
 ---
 
